@@ -1,7 +1,3 @@
-Your project summary for **Tap Foods** is clear, well-organized, and effectively communicates the scope and technical depth of the application. Here's a refined version with a few enhancements for clarity, consistency, and formatting:
-
----
-
 # 🍔 Tap Foods - Full-Stack Food Delivery Web App
 
 **Tap Foods** is a full-stack web application designed to streamline the food delivery process. It offers a seamless experience for customers to browse menus, place orders, and manage preferences, along with powerful tools for admins to manage orders and menu items.
