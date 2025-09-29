@@ -10,7 +10,7 @@ public class DBConnection {
 		Connection connection = null;
 		String URL = "jdbc:mysql://localhost:3306/foodiefly";
 		String USERNAME = "root";
-		String PASSWORD = "Jasse@159";
+		String PASSWORD = "root";
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");			
 			connection = DriverManager.getConnection(URL, USERNAME, PASSWORD);
@@ -23,3 +23,4 @@ public class DBConnection {
 		return connection;
 	}
 }
+
