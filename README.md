@@ -1,6 +1,6 @@
-# 🍔 Tap Foods - Full-Stack Food Delivery Web App
+# 🍔 FoodieFly - Full-Stack Food Delivery Web App
 
-**Tap Foods** is a full-stack web application designed to streamline the food delivery process. It offers a seamless experience for customers to browse menus, place orders, and manage preferences, along with powerful tools for admins to manage orders and menu items.
+**FoodieFly** is a full-stack web application designed to streamline the food delivery process. It offers a seamless experience for customers to browse menus, place orders, and manage preferences, along with powerful tools for admins to manage orders and menu items.
 
 ---
 
